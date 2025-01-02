@@ -1,2 +1,2 @@
 # Verdandi
-![](profile/Verdandi.png)
+![](Profile/Verdandi.png)
